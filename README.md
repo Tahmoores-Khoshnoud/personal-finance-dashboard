@@ -56,6 +56,11 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 ---
 
+## 📸 Screenshots  
+*(Add screenshots of your app UI here—e.g., the dashboard with transactions list)*
+
+---
+
 ## 🌟 Future Improvements  
 - Persistent storage with a real database (e.g., AWS RDS PostgreSQL).  
 - Authentication for multiple users.  
@@ -65,3 +70,8 @@ Visit: [http://localhost:5173](http://localhost:5173)
 
 ## 🤝 Contributing  
 Pull requests are welcome! For major changes, open an issue first to discuss what you’d like to change.  
+
+---
+
+## 📄 License  
+This project is open source under the [MIT License](LICENSE).  
